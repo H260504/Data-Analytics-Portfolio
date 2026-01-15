@@ -1,5 +1,10 @@
 # Harsh Maniar - Data Analytics Portfolio
 
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=Power-BI&logoColor=black)
+
 Welcome to my GitHub portfolio! This repository showcases my work in **SQL, Python, Excel, and Power BI**, highlighting my ability to analyze data, generate insights, and create actionable visualizations.  
 
 I am a **MS Business Analytics student at DePaul University**, passionate about leveraging data to drive business decisions in product, marketing, and analytics domains.
