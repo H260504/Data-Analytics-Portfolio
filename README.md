@@ -19,24 +19,22 @@ I am a **MS Business Analytics student at DePaul University**, passionate about 
 ### SQL Projects
 [SQL Projects](SQL-Projects/)  
 - Data extraction, cleaning, and reporting  
-- Sample Projects: Sales Analysis, Customer Segmentation
+- Sample Projects: Sales Analysis, Customer Segmentation  
 
-
- ### Python Projects
+### Python Projects
 [Python Projects](Python-Projects/)  
 - Data analysis, visualization, and predictive modeling  
-- Sample Projects: Customer Churn Prediction, Sales Forecasting
+- Sample Projects: Customer Churn Prediction, Sales Forecasting  
 
-  ### Excel Dashboards
+### Excel Dashboards
 [Excel Dashboards](Excel-Dashboards/)  
 - Data cleaning, pivot tables, and interactive dashboards  
 - Sample Projects: Sales Dashboard, Customer Analysis, Inventory Management  
 
-
 ### Power BI Dashboards
 [Power BI Dashboards](PowerBI-Dashboards/)  
 - Interactive dashboards, KPIs, and trend analysis  
-- Sample Projects: Sales Performance Dashboard, Marketing Analysis Dashboard, Customer Insights Dashboard
+- Sample Projects: Sales Performance Dashboard, Marketing Analysis Dashboard, Customer Insights Dashboard  
 
 ---
 
@@ -47,6 +45,7 @@ Each folder contains example projects and a **README.md** describing the project
 
 ### Contact
 📧 Email: harshkmaniar05@gmail.com  
-🔗 LinkedIn: [in/harshkmaniar](https://www.linkedin.com/in/harshkmaniar/)
+🔗 LinkedIn: [Harsh Maniar](https://www.linkedin.com/in/harshkmaniar/)
+
 
 
