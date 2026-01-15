@@ -1,5 +1,3 @@
-# Data-Analytics-Portfolio
-Portfolio of Data Analytics projects in SQL, Python, Excel, and Power BI
 # Harsh Maniar - Data Analytics Portfolio
 
 Welcome to my GitHub portfolio! This repository showcases my work in **SQL, Python, Excel, and Power BI**, highlighting my ability to analyze data, generate insights, and create actionable visualizations.  
@@ -23,4 +21,30 @@ Folder: `SQL-Projects`
 - Data extraction, cleaning, and reporting  
 - Sample Projects: Sales Analysis, Customer Segmentation  
 
-### Pyth
+### Python Projects
+Folder: `Python-Projects`  
+- Data analysis, visualization, and predictive modeling  
+- Sample Projects: Customer Churn Prediction, Sales Forecasting  
+
+### Excel Dashboards
+Folder: `Excel-Dashboards`  
+- Data cleaning, pivot tables, and interactive dashboards  
+- Sample Projects: Sales Dashboard, Customer Analysis, Inventory Management  
+
+### Power BI Dashboards
+Folder: `PowerBI-Dashboards`  
+- Interactive dashboards, KPIs, and trend analysis  
+- Sample Projects: Sales Performance Dashboard, Marketing Analysis Dashboard, Customer Insights Dashboard  
+
+---
+
+## How to Use This Repository
+Each folder contains example projects and a **README.md** describing the project, tools used, and key insights. Feel free to explore the projects to understand my approach to data analysis and visualization.
+
+---
+
+### Contact
+📧 Email: harshkmaniar05@gmail.com  
+🔗 LinkedIn: [in/harshkmaniar](https://www.linkedin.com/in/harshkmaniar/)
+
+
