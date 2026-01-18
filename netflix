@@ -1,0 +1,32 @@
+# Netflix Retention & Content Strategy Analysis
+
+## Overview
+This project analyzes Netflix content data combined with simulated user behavior to
+understand what drives user engagement and subscription churn.
+
+## Business Question
+What types of content and user behaviors are associated with higher retention, and how
+can Netflix reduce churn using data-driven insights?
+
+## Data Sources
+- Netflix Movies & TV Shows dataset (public)
+- Simulated user behavior data (watch time, subscription type, churn flag)
+
+## Key Metrics
+- Monthly Active Users (MAU)
+- Churn Rate
+- Average Watch Time
+- Genre Retention Index
+
+## Key Insights
+- Users who primarily watch TV series stay subscribed significantly longer than movie-only users.
+- High engagement in the first 30 days strongly correlates with retention.
+- Low-engagement users are most sensitive to pricing changes.
+
+## Tools Used
+- Python (Pandas, Matplotlib)
+- SQL
+- Power BI
+
+## Notes
+User behavior data was simulated to reflect realistic usage patterns for analytical purposes.
